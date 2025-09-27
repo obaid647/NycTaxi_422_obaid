@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+.ipynb_checkpoints/
+*.swp
+
+# Python/venv
+__pycache__/
+*.pyc
+.venv/
+
+# Databricks local junk
+databricks_logs/
+dbfs_mounts/
